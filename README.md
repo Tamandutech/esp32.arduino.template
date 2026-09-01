@@ -1,4 +1,4 @@
-# esp32.pio.template
+# esp32.arduino.template
 
 Template with developer experience setup. PlatformIO + Cpp + CI/CD + Linter + Formatter.
 
@@ -7,7 +7,7 @@ Template with developer experience setup. PlatformIO + Cpp + CI/CD + Linter + Fo
 1. Clone the repository
 
 ```bash
-git clone https://github.com/platformio/esp32.pio.template.git
+git clone https://github.com/platformio/esp32.arduino.template.git
 ```
 
 2. Install PlatformIO Core (CLI)
